@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @0047dom
-- 👀 I’m interested in generative art
-- 🌱 I’m currently learning touchdesigner
-- 💞️ I’m looking to collaborate on anything touchdesigner/ai
-- 📫 How to reach me ask awayy
+Dom 👷
+
+- Designer based in NY, NY
+- Work: www.dominicmagl.io
+
 
 
 <!---
